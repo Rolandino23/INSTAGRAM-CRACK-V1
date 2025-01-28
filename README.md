@@ -14,8 +14,10 @@ $pip install rich
 
 $pip install stdiomask
 
-(:"---------(-:𝙍𝙚𝙖𝙙𝙮!-:)-----------":)  
-
+(:"---------(-:𝙍𝙚𝙖𝙙𝙮!-:)-----------":) 
+ 
+ $ git clone https://github.com/Rolandino23/INSTAGRAM-CRACK-V1.git
+ 
  $ cd INSTAGRAM-CRACK-V1
  
  $ ls
