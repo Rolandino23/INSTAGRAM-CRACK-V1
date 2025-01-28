@@ -7,3 +7,6 @@ $pip install bs4
 $pip install rich
 $pip install stdiomask
 (:"---------(-:𝙍𝙚𝙖𝙙𝙮!-:)-----------":)  
+ $ cd INSTAGRAM-CRACK-V1
+ $ ls
+ $ python RolandinoIG.py
