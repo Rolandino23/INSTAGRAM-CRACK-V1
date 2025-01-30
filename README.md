@@ -1,18 +1,20 @@
 (:"-------(-:𝗜𝗻𝘀𝘁𝗮𝗹𝗹-:)-------------":)
 
-$pkg update && pkg upgrade
+$ pkg update && pkg upgrade
 
-$pkg install git
+$ pkg install git
 
-$pkg install python
+$ pkg install python
 
-$pip install requests
+$ pip install requests
 
-$pip install bs4
+$ pip install bs4
 
-$pip install rich
+$ pip install rich
 
-$pip install stdiomask
+$ pip install stdiomask
+
+$ pip install Crypto
 
 (:"---------(-:𝙍𝙚𝙖𝙙𝙮!-:)-----------":) 
  
