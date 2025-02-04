@@ -14,6 +14,8 @@ $ pip install rich
 
 $ pip install stdiomask
 
+$ pip install cryptography
+
 $ pip install Crypto
 
 (:"---------(-:𝙍𝙚𝙖𝙙𝙮!-:)-----------":) 
