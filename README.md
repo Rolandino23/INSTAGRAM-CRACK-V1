@@ -23,6 +23,8 @@ $ pip install Crypto
  $ git clone https://github.com/Rolandino23/INSTAGRAM-CRACK-V1.git
  
  $ cd INSTAGRAM-CRACK-V1
+
+ $ git pull
  
  $ ls
 
