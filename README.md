@@ -16,6 +16,12 @@ $ pip install stdiomask
 
 $ pip install cryptography
 
+$ pip install pycrypto
+
+$ pip install pycryptodome
+
+$ pip install licensing
+
 $ pip install Crypto
 
 (:"---------(-:𝙍𝙚𝙖𝙙𝙮!-:)-----------":) 
