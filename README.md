@@ -24,6 +24,8 @@ $ pip install licensing
 
 $ pip install Crypto
 
+$ pip install pytz
+
 (:"---------(-:𝙍𝙚𝙖𝙙𝙮!-:)-----------":) 
  
  $ git clone https://github.com/Rolandino23/INSTAGRAM-CRACK-V1.git
